@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "json-server -p 3001 -w db.json --routes routes.json"
+    "start": "json-server -p 3001 -w db.json --routes routes.json"
   },
   "keywords": [],
   "author": "",
