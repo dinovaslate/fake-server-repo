@@ -1,0 +1,4 @@
+{
+  "/users/usr/:usr": "/users?usr=:usr",
+  "/comments/usr/:usr": "/comments?usr=:usr"
+}

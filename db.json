@@ -1,0 +1,482 @@
+{
+  "streams": [
+    {
+      "title": "info masse part 3",
+      "description": "some text ",
+      "usr": "111690047189531719621",
+      "id": 9
+    },
+    {
+      "title": "masse part 2",
+      "description": "Saya sekarang sedang mencari loker, kalau ada info langsung utiwi",
+      "usr": "104755658212930849926",
+      "id": 10
+    },
+    {
+      "title": "Barco Falih 3000",
+      "description": "Free PS2 in my Alphard G",
+      "usr": "104755658212930849926",
+      "id": 11
+    },
+    {
+      "title": "Hello Guys, I'm new here",
+      "description": "Barco gaming",
+      "usr": "105085346326791121982",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "streamId": 9,
+      "comment": "[deleted]",
+      "replyTo": "none",
+      "usr": "[deleted]",
+      "date": "6/24/2021, 1:38:35 PM"
+    },
+    {
+      "id": 2,
+      "streamId": 9,
+      "comment": "Yeah true",
+      "replyTo": 1,
+      "usr": "104755658212930849926",
+      "date": "6/24/2022, 1:38:35 PM"
+    },
+    {
+      "id": 3,
+      "streamId": 9,
+      "comment": "Naah",
+      "replyTo": 2,
+      "usr": "404755658212938787980",
+      "date": "6/26/2022, 1:38:35 PM"
+    },
+    {
+      "id": 4,
+      "streamId": 9,
+      "comment": "You're dumb anyway",
+      "replyTo": 1,
+      "usr": "404755658212938787980",
+      "date": "6/27/2022, 1:38:35 PM"
+    },
+    {
+      "streamId": "9",
+      "comment": "Hello World",
+      "replyTo": "none",
+      "date": "6/29/2022, 7:52:46 PM",
+      "usr": "104755658212930849926",
+      "id": 5
+    },
+    {
+      "streamId": 9,
+      "comment": "Lugowo, futunari",
+      "replyTo": 3,
+      "usr": "404755658212938787980",
+      "date": "6/29/2022, 8:17:35 PM",
+      "id": 6
+    },
+    {
+      "streamId": 9,
+      "comment": "Don't be gay",
+      "replyTo": 2,
+      "date": "6/29/2022, 7:55:15 PM",
+      "usr": "104755658212930849926",
+      "id": 7
+    },
+    {
+      "streamId": 9,
+      "comment": "[deleted]",
+      "replyTo": 3,
+      "date": "6/29/2022, 8:20:23 PM",
+      "usr": "[deleted]",
+      "id": 8
+    },
+    {
+      "streamId": "9",
+      "comment": "[deleted]",
+      "replyTo": "none",
+      "date": "6/29/2022, 8:23:22 PM",
+      "usr": "[deleted]",
+      "id": 9
+    },
+    {
+      "streamId": "9",
+      "comment": "Guys, I take back what i said",
+      "replyTo": "none",
+      "date": "6/29/2022, 8:30:03 PM",
+      "usr": "111690047189531719621",
+      "id": 10
+    },
+    {
+      "streamId": "10",
+      "comment": "Masse on Demand",
+      "replyTo": "none",
+      "date": "6/29/2022, 8:41:48 PM",
+      "usr": "111690047189531719621",
+      "id": 11
+    },
+    {
+      "streamId": "11",
+      "comment": "Hello Bro",
+      "replyTo": "none",
+      "date": "6/29/2022, 8:51:05 PM",
+      "usr": "111690047189531719621",
+      "id": 12
+    },
+    {
+      "streamId": "11",
+      "comment": "What up",
+      "replyTo": 12,
+      "date": "6/29/2022, 8:51:56 PM",
+      "usr": "111690047189531719621",
+      "id": 13
+    },
+    {
+      "streamId": "11",
+      "comment": "Nikado avocado",
+      "replyTo": "none",
+      "date": "6/29/2022, 8:55:21 PM",
+      "usr": "104755658212930849926",
+      "id": 14
+    },
+    {
+      "streamId": "11",
+      "comment": "Sup",
+      "replyTo": 13,
+      "date": "6/29/2022, 8:55:29 PM",
+      "usr": "104755658212930849926",
+      "id": 15
+    },
+    {
+      "streamId": 9,
+      "comment": "Barco",
+      "replyTo": 8,
+      "date": "6/29/2022, 9:44:16 PM",
+      "usr": "104755658212930849926",
+      "id": 16
+    },
+    {
+      "streamId": 9,
+      "comment": "What did he said",
+      "replyTo": 6,
+      "date": "6/30/2022, 7:46:01 PM",
+      "usr": "104755658212930849926",
+      "id": 17
+    },
+    {
+      "streamId": 9,
+      "comment": "What",
+      "replyTo": 3,
+      "date": "6/30/2022, 7:46:34 PM",
+      "usr": "104755658212930849926",
+      "id": 18
+    },
+    {
+      "streamId": 9,
+      "comment": "[deleted]",
+      "replyTo": 16,
+      "date": "6/30/2022, 7:55:22 PM",
+      "usr": "[deleted]",
+      "id": 19
+    },
+    {
+      "streamId": 9,
+      "comment": "Ni juga ngomong apa",
+      "replyTo": 8,
+      "date": "6/30/2022, 7:59:56 PM",
+      "usr": "111690047189531719621",
+      "id": 20
+    },
+    {
+      "streamId": 9,
+      "comment": "What did he said",
+      "replyTo": 19,
+      "date": "6/30/2022, 8:15:40 PM",
+      "usr": "111690047189531719621",
+      "id": 21
+    },
+    {
+      "streamId": 9,
+      "comment": "bro said the B word",
+      "replyTo": 16,
+      "date": "6/30/2022, 8:19:11 PM",
+      "usr": "111690047189531719621",
+      "id": 22
+    },
+    {
+      "streamId": 9,
+      "comment": "Nigga you gay?",
+      "replyTo": 6,
+      "date": "6/30/2022, 8:19:56 PM",
+      "usr": "111690047189531719621",
+      "id": 23
+    },
+    {
+      "streamId": 9,
+      "comment": "I think he is",
+      "replyTo": 23,
+      "date": "6/30/2022, 8:22:04 PM",
+      "usr": "111690047189531719621",
+      "id": 24
+    },
+    {
+      "streamId": 9,
+      "comment": "Help I'm replying to myself",
+      "replyTo": 6,
+      "date": "6/30/2022, 8:22:18 PM",
+      "usr": "111690047189531719621",
+      "id": 25
+    },
+    {
+      "streamId": 9,
+      "comment": "I'm gay and replying to meself",
+      "replyTo": 6,
+      "date": "6/30/2022, 8:24:59 PM",
+      "usr": "111690047189531719621",
+      "id": 26
+    },
+    {
+      "streamId": 9,
+      "comment": "Gay af",
+      "replyTo": 6,
+      "date": "6/30/2022, 8:25:26 PM",
+      "usr": "111690047189531719621",
+      "id": 27
+    },
+    {
+      "streamId": "9",
+      "comment": "Testing",
+      "replyTo": "none",
+      "date": "6/30/2022, 8:25:34 PM",
+      "usr": "111690047189531719621",
+      "id": 28
+    },
+    {
+      "streamId": "9",
+      "comment": "[deleted]",
+      "replyTo": "none",
+      "date": "6/30/2022, 10:00:01 PM",
+      "usr": "[deleted]",
+      "id": 29
+    },
+    {
+      "streamId": "10",
+      "comment": "[deleted]",
+      "replyTo": "none",
+      "date": "6/30/2022, 11:00:01 PM",
+      "usr": "[deleted]",
+      "id": 30
+    },
+    {
+      "streamId": "10",
+      "comment": "[deleted]",
+      "replyTo": 11,
+      "date": "6/30/2022, 11:00:15 PM",
+      "usr": "[deleted]",
+      "id": 31
+    },
+    {
+      "streamId": "10",
+      "comment": "[deleted]",
+      "replyTo": 31,
+      "date": "6/30/2022, 11:01:22 PM",
+      "usr": "[deleted]",
+      "id": 32
+    },
+    {
+      "streamId": "10",
+      "comment": "[deleted]",
+      "replyTo": 11,
+      "date": "6/30/2022, 11:01:40 PM",
+      "usr": "[deleted]",
+      "id": 33
+    },
+    {
+      "streamId": "9",
+      "comment": "[deleted]",
+      "replyTo": "none",
+      "date": "7/4/2022, 11:46:53 AM",
+      "usr": "[deleted]",
+      "id": 34
+    },
+    {
+      "streamId": 9,
+      "comment": "[deleted]",
+      "replyTo": 24,
+      "date": "7/4/2022, 11:48:26 AM",
+      "usr": "[deleted]",
+      "id": 35
+    },
+    {
+      "streamId": 9,
+      "comment": "[deleted]",
+      "replyTo": 23,
+      "date": "7/4/2022, 11:48:34 AM",
+      "usr": "[deleted]",
+      "id": 36
+    },
+    {
+      "streamId": "11",
+      "comment": "[deleted]",
+      "replyTo": "none",
+      "date": "7/4/2022, 11:52:14 AM",
+      "usr": "[deleted]",
+      "id": 37
+    },
+    {
+      "streamId": "11",
+      "comment": "[deleted]",
+      "replyTo": 37,
+      "date": "7/4/2022, 11:52:21 AM",
+      "usr": "[deleted]",
+      "id": 38
+    },
+    {
+      "streamId": "11",
+      "comment": "[deleted]",
+      "replyTo": 38,
+      "date": "7/4/2022, 11:52:33 AM",
+      "usr": "[deleted]",
+      "id": 39
+    },
+    {
+      "streamId": "11",
+      "comment": "[deleted]",
+      "replyTo": 38,
+      "date": "7/4/2022, 11:52:46 AM",
+      "usr": "[deleted]",
+      "id": 40
+    },
+    {
+      "streamId": "11",
+      "comment": "[deleted]",
+      "replyTo": 37,
+      "date": "7/4/2022, 11:52:53 AM",
+      "usr": "[deleted]",
+      "id": 41
+    },
+    {
+      "streamId": "9",
+      "comment": "Halo Bro",
+      "replyTo": "none",
+      "date": "7/4/2022, 1:00:37 PM",
+      "usr": "105085346326791121982",
+      "id": 42
+    },
+    {
+      "streamId": "9",
+      "comment": "Nice profile picture",
+      "replyTo": 42,
+      "date": "7/4/2022, 1:00:50 PM",
+      "usr": "105085346326791121982",
+      "id": 43
+    },
+    {
+      "streamId": "9",
+      "comment": "Apa kamu hello hello",
+      "replyTo": 5,
+      "date": "7/5/2022, 10:10:47 PM",
+      "usr": "105085346326791121982",
+      "id": 44
+    },
+    {
+      "streamId": "9",
+      "comment": "Saya ngomong sendiri",
+      "replyTo": 44,
+      "date": "7/5/2022, 10:10:58 PM",
+      "usr": "105085346326791121982",
+      "id": 45
+    },
+    {
+      "streamId": "9",
+      "comment": "Saya ngomong sendiri bro",
+      "replyTo": 5,
+      "date": "7/5/2022, 10:11:34 PM",
+      "usr": "105085346326791121982",
+      "id": 46
+    },
+    {
+      "streamId": "10",
+      "comment": "Jelek Lu",
+      "replyTo": 32,
+      "date": "7/12/2022, 7:52:37 PM",
+      "usr": "104755658212930849926",
+      "id": 47
+    },
+    {
+      "streamId": "10",
+      "comment": "Ngomong Sendiri",
+      "replyTo": 31,
+      "date": "7/12/2022, 7:52:47 PM",
+      "usr": "104755658212930849926",
+      "id": 48
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "usr": "104755658212930849926",
+      "name": "Mario Pratama",
+      "avatar": "https://i1.sndcdn.com/artworks-yujOytMCGDf3Zyto-0ttK0g-t500x500.jpg",
+      "bio": "Hi, my hobbies include breakfast, lunch and dinner."
+    },
+    {
+      "id": 2,
+      "usr": "111690047189531719621",
+      "name": "Putropata MahaPutra",
+      "avatar": "https://1.bp.blogspot.com/-Onj7IAKVkkw/YB-MAq-G7nI/AAAAAAAAADY/k7S5s7HCypAj--Dxw2ab-BSFTsC682ObQCLcBGAsYHQ/s736/123608518_406917553667828_97348032661959240_n.jpg",
+      "bio": "Flora Morwenna MacDonald is a 22-year-old gym assistant who enjoys stealing candy from babies, baking and binge-watching boxed sets. She is generous and friendly, but can also be very grumpy and a bit evil.",
+      "profile": "https://1.bp.blogspot.com/-Onj7IAKVkkw/YB-MAq-G7nI/AAAAAAAAADY/k7S5s7HCypAj--Dxw2ab-BSFTsC682ObQCLcBGAsYHQ/s736/123608518_406917553667828_97348032661959240_n.jpg"
+    },
+    {
+      "id": 3,
+      "usr": "404755658212938787980",
+      "name": "Mark Marison",
+      "avatar": "https://semantic-ui.com/images/avatar/small/elliot.jpg",
+      "bio": "Sophia's best friend is a teenager called Tia Castillo. They are inseparable. She also hangs around with Clayton Nelson and Iris Quinn. They enjoy photography together."
+    },
+    {
+      "usr": "100320049072550896789",
+      "name": "Pantat Land",
+      "avatar": "https://cdn4.buysellads.net/uu/1/41334/1550855401-cc_light.png",
+      "bio": "Barco Falih",
+      "id": 4
+    },
+    {
+      "usr": "113962846932103030708",
+      "name": "Barco Falih",
+      "avatar": "https://images.viblo.asia/09216a0b-b299-48e3-a99b-617526eee43b.png",
+      "bio": "Hello bro",
+      "id": 5
+    },
+    {
+      "usr": "105085346326791121982",
+      "name": "Roxanne Wolf",
+      "avatar": "https://i.etsystatic.com/20882104/r/il/03d485/3600715037/il_fullxfull.3600715037_jp8a.jpg",
+      "bio": "Copypasta is a term for a block of text that has been copied and pasted multiple times. It is often jumbled, disjointed or ridiculous in some way. Copypasta makes its way across a social media platform, forum or email chain to reach multiple users. In its final form, it is constituted by some kind of memorable text, frequently associated with memes.",
+      "id": 6
+    }
+  ],
+  "story": [
+    {
+      "title": "Cerita saya di Goblok Land",
+      "description": "Jangan pernah melihat amongus di jalanan itu sangat berbahaya",
+      "usr": "105085346326791121982",
+      "story": "Greetings! Quandale Dingle here. My cousin Henry Dinglenut got arrested for putting TNT in a daycare center. (WHAT THE FUCK??) I put a camera in Joe Biden's bathroom and watched him take a poop. (WHAT????) My Asian brother, Quanliling Dingle put illegal substances in my ramen and I died.",
+      "id": 2
+    },
+    {
+      "title": "Hello Kids",
+      "description": "My Name Is",
+      "story": "Regular Expressions, abbreviated as Regex or Regexp, are a string of characters created within the framework of Regex syntax rules. You can easily manage your data with Regex, which uses commands like finding, matching, and editing. Regex can be used in programming languages such as Python, SQL, Javascript, R, Google Analytics, Google Data Studio, and throughout the coding process. Learn regex online with examples and tutorials on RegexLearn now.",
+      "usr": "104755658212930849926",
+      "id": 10
+    },
+    {
+      "title": "Saya Sedang Kuliah",
+      "description": "Majapahit",
+      "story": "This is me. This is the shape that let others recognize me as myself. It is my symbol for myself. This is, this is, and this is as well. Representations. Everything is merely a description, not the real myself. Everything is simply a shape, a form, an identifier to let others recognize me as me.\nThen what am I? Majapahit Dalah",
+      "usr": "105085346326791121982",
+      "id": 11
+    }
+  ]
+}
