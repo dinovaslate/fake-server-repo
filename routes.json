@@ -1,4 +1,6 @@
 {
   "/users/usr/:usr": "/users?usr=:usr",
-  "/comments/usr/:usr": "/comments?usr=:usr"
+  "/comments/usr/:usr": "/comments?usr=:usr",
+  "/comments/streamId/:streamId": "/comments?streamId=:streamId",
+  "/streams/usr/:usr": "/streams?usr=:usr"
 }
